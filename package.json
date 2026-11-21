@@ -1,0 +1,9 @@
+{
+  "name": "mind-academy-push-server",
+  "version": "6.0.0",
+  "private": true,
+  "dependencies": {
+    "firebase-admin": "^12.5.0",
+    "agora-token": "^2.0.5"
+  }
+}
